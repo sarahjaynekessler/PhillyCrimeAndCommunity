@@ -1,0 +1,28 @@
+﻿X,Y,OBJECTID,AGENCY,STREET_ADDRESS,ZIP_CODE,PHONE_NUMBER,WEBSITE_URL,FORECLOSURE,PRE_PURCHASE,SPECIALTY
+-75.1643340313315,39.950280958201,1,Tenant Union Representative Network,"100 S Broad St, Suite 800",19110,(215) 940-3900,rturn.net,No,No,RENTER
+-75.0587408003474,40.0278722469402,2,Affordable Housing Centers of PA: Northeast Office,"6325 Frankford Ave, Unit D",19135,(215) 624-0221,http://www.ahcopa.org,Yes,Yes, 
+-75.1316011321701,39.99938748905,3,HACE: Central Office,"167 W Allegheny Ave, Suite 200",19140,(215) 426-8025,http://www.hacecdc.org,Yes,Yes, 
+-75.1851493457833,40.0522642369506,4,Mt. Airy USA,"6703 Germantown Ave, Suite 200",19119,(215) 844-6021,mtairyusa.org,Yes,Yes, 
+-75.1790967856958,39.9274904689434,5,Diversified Community Services (Dixon House),1920 S 20th St,19145,(215) 336-3511,http://www.dcsphila.org,Yes,Yes, 
+-75.1227060777628,39.9908015870863,6,New Kensington CDC,"2771 Ruth St, Suite 1",19134,(215) 427-0350,nkcdc.org,Yes,Yes, 
+-75.1322532685995,40.0269225413141,7,Greater Philadelphia Asian Social Service (GPASS),4943 N 5th St,19120,(215) 456-1662,http://www.gpasspa.org,Yes,Yes, 
+-75.2075242875974,39.956706490999,8,Intercultural Family Services,4225 Chestnut St,19104,(215) 386-1298,http://www.ifsinc.org,Yes,Yes, 
+-75.1355118881878,39.9816198144974,9,Norris Square Community Alliance,174 Diamond St,19122,(215) 426-8734,nscaonline.org,Yes,Yes, 
+-75.14128403848,40.0530026215147,10,Northwest Counseling Service,6521 N Broad St,19126,(215) 324-7500,nwcsinc.org,Yes,Yes, 
+-75.1354296029208,39.9929488093076,11,Congreso de Latinos Unidos,216 W Somerset St,19133,(215) 763-8870 ,http://www.congreso.net,Yes,Yes, 
+-75.1444285966453,39.9828511721635,12,Asociación Puertorriqueños en Marcha (APM),600 Diamond St,19122,(215) 235-6070,http://www.apmphila.org,Yes,Yes, 
+-75.134116379562,40.0159199257295,13,Esperanza,4261 N 5th St,19140,(215) 324-0746,http://www.esperanza.us,Yes,Yes, 
+-75.1681322518342,39.9495429077794,14,Clarifi,"1635 Market St, Suite 510",19103,(215) 563-5665,http://www.clarifi.org,Yes,Yes, 
+-75.0810094736408,40.0193659032732,15,HACE: Frankford Office,4907 Frankford Ave,19124,(215) 437-7867,http://www.hacecdc.org,Yes,Yes, 
+-75.2310969061573,39.9256733553726,16,Southwest CDC,6328 Paschall Ave,19142,(215) 729-0800,southwestcdc.org,Yes,Yes, 
+-75.1635879139421,39.9549779328143,17,Unemployment Information Center,"112 N Broad St, 11th Floor",19102,(215) 557-0822,philaup.org,Yes,Yes, 
+-75.2270910290948,39.9739519320963,18,Philadelphia Council for Community Advancement,5218 W Master St,19131,(215) 567-7803,pccahousing.org,Yes,Yes, 
+-75.1594907304296,39.9232656562484,19,United Communities Southeast Philadelphia,2029 S 8th St,19148,(215) 468-1645,ucsep.org,Yes,Yes, 
+-75.1637002421946,39.9502278591427,20,Urban League of Philadelphia,"121 S Broad St, 9th Floor",19107,(215) 985-3220,urbanleaguephila.org,Yes,Yes, 
+-75.1715642536767,40.0811102494044,21,West Oak Lane CDC,1624 Wadsworth Ave,19150,(215) 224-8339,westoaklanecdc.org,Yes,Yes, 
+-75.1603660781139,39.9695211759474,22,Affordable Housing Centers of Pennsylvania,846 N Broad St,19130,(215) 765-1221,http://www.ahcopa.org,Yes,Yes, 
+-75.1766819456904,40.0357316685053,23,Center in the Park,5818 Germantown Ave,19144,(215) 848-7722,http://www.centerintheparkphila.org,Yes,Yes,SENIOR
+-75.1532957935772,39.9537934238215,24,Liberty Resources,"112 N 8th St, Suite 600",19107,(215) 634-2000,libertyresources.org,Yes,No,DISABILITY
+-75.2139851598693,40.0275460000421,25,Intercommunity Action (Senior Center),403 Rector St,19128,(215) 487-1750,http://www.intercommunityaction.org,Yes,No,SENIOR
+-75.164945407929,39.9441942223168,26,Philadelphia Senior Center,509 S Broad St,19147,(215) 546-5879,philaseniorcenter.org,Yes,No,SENIOR
+-75.1536772433066,39.9572222634,27,Philadelphia Chinatown CDC,301-305 N 9th St,19107,(215) 922-6156,chinatown-pcdc.org,Yes,Yes,
